@@ -1,10 +1,9 @@
 # EDIT THIS
 REPLACE_DICTIONARY = {
-	"groups":"baskets",
-	"members":"onions",
-	"Forever":"STFU",
+	"members":"kideak",
+	"online":"linean",
 }
-# Remember: lowercase is not UPPERCASE is not WeIrDcAse
+# UPPERCASE and lowercase need to be written separately
 
 
 # DO NOT EDIT THE CODE BELOW (unless you know Python and RegEx)
