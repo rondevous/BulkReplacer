@@ -17,4 +17,4 @@ python replacer.py --lang android_lang.xml
 ```
 Case-insensitive translations are noted in `possibilities.log`.
 
-**Note:** Of course, don't rely on this.
+**Note:** Don't rely on this.
